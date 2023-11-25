@@ -1,10 +1,10 @@
-# DL-Project-Time-series-firecasting
+# DL-Project-Time-series-forecasting
 
 # LSTM
 
 LSTM (Long Short Term Memory) is a special kind of RNN (Recurrent Neural Network) which 
 performs comparatively better than traditional RNN on datasets involving learning long-term  
-dependencies. It does so by using a memory unit (cell state) and 3-gates: input, output and 
+dependencies. It uses a memory unit (cell state) and three gates: input, output and 
 forget gate.
 
 # Time Series Prediction with MIXER-MLP
@@ -36,6 +36,6 @@ CS20BTECH11005@iith.ac.in)
 
 # TRANSFORMER
 ## Running the model
-Simply change the stock index you want to run on and press run all ,the notebook will proceed to generate all the graphs and outputs there on afterwards.
+Change the stock index you want to run on and press run all; the notebook will generate all the graphs and outputs thereon afterwards.
 
-For any further queries contact Ojjas Tyagi (cs20btech11060@iith.ac.in)
+For any further queries, contact Ojjas Tyagi (cs20btech11060@iith.ac.in)
