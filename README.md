@@ -31,7 +31,7 @@ In the above, keep the param you want to predict first for the `--dataset_params
 You can use the `inference.ipynb` jupyter notebook for testing.
 
 
-For Any Queries, you can reach: `Prabhat Chellingi` (CS20BTECH11038@iith.ac.in), Avula Mohana Durga Dinesh Reddy (
+For Any Queries, you can reach: `Prabhat Chellingi` (CS20BTECH11038@iith.ac.in), `Avula Mohana Durga Dinesh Reddy` (
 CS20BTECH11005@iith.ac.in)
 
 # TRANSFORMER
